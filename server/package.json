@@ -9,6 +9,7 @@
   "author": "Nuttywhal <nutty@wha.al>",
   "license": "MIT",
   "dependencies": {
+    "chalk": "^2.4.1",
     "hapi": "^17.4.0"
   }
 }
